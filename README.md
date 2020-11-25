@@ -1,8 +1,24 @@
 # vue-app-todo
-TO Do / Task App with Vue JS
 
-The Ultimate Vue 2 Crash Course - Learn by Example
+## Project setup
+```
+npm install
+```
 
-Install Vue 2 through CDN, NPM and the Vue CLI
-Understand how to build a basic Vue 2 App
-Understand core fundamentals at a basic level of Vue 2
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
